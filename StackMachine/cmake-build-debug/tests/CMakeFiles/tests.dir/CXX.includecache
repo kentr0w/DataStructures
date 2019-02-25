@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/acer/Desktop/part1-03-stackmachine-stud/src/int_stack.h
+stddef.h
+-
+
+C:/Users/acer/Desktop/part1-03-stackmachine-stud/src/stack_machine.cpp
+stack_machine.h
+C:/Users/acer/Desktop/part1-03-stackmachine-stud/src/stack_machine.h
+stdlib.h
+-
+string
+-
+vector
+-
+sstream
+-
+iostream
+-
+stdlib.h
+-
+cstring
+-
+cctype
+-
+
+C:/Users/acer/Desktop/part1-03-stackmachine-stud/src/stack_machine.h
+map
+-
+vector
+-
+int_stack.h
+C:/Users/acer/Desktop/part1-03-stackmachine-stud/src/int_stack.h
+
