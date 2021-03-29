@@ -1,0 +1,8 @@
+C:/Users/acer/Desktop/part1-03-stackmachine-stud/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/acer/Desktop/part1-03-stackmachine-stud/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/acer/Desktop/part1-03-stackmachine-stud/cmake-build-debug/src/CMakeFiles/stack_machine_main.dir
+C:/Users/acer/Desktop/part1-03-stackmachine-stud/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/acer/Desktop/part1-03-stackmachine-stud/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/acer/Desktop/part1-03-stackmachine-stud/cmake-build-debug/tests/CMakeFiles/tests.dir
+C:/Users/acer/Desktop/part1-03-stackmachine-stud/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+C:/Users/acer/Desktop/part1-03-stackmachine-stud/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir

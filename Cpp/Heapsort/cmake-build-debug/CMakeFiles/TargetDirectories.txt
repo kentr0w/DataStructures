@@ -1,0 +1,3 @@
+/home/denis/CLionProjects/куча-сортировка/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/denis/CLionProjects/куча-сортировка/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/denis/CLionProjects/куча-сортировка/cmake-build-debug/CMakeFiles/_.dir

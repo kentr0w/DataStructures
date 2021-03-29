@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/denis/CLionProjects/Сортировка Слиянием/MergeSort.h
+
+/home/denis/CLionProjects/Сортировка Слиянием/ReadWriter.h
+iostream
+-
+fstream
+-
+
+/home/denis/CLionProjects/Сортировка Слиянием/main.cpp
+ReadWriter.h
+/home/denis/CLionProjects/Сортировка Слиянием/ReadWriter.h
+MergeSort.h
+/home/denis/CLionProjects/Сортировка Слиянием/MergeSort.h
+
